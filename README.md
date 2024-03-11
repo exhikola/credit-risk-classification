@@ -7,7 +7,7 @@
 * Due to class imbalance, a resampled training dataset was generated using RandomOverSampler from imbalanced-learn, and a new logistic regression model was trained on this resampled data.
 
 ## Results
-* Model 1:
+*Machine Learning Model 1:
 
 * Balanced Accuracy: 94.4%
 * Precision:
@@ -17,7 +17,7 @@
 * Healthy Loans: 1%
 * High-Risk Loans: 89%
 
-* Model 2:
+*Machine Learnin Model 2:
 * Balanced Accuracy: 99.6%
 * Precision:
 * Healthy Loans: 1%
