@@ -11,20 +11,20 @@
 
 * Balanced Accuracy: 94.4%
 * Precision:
-* Healthy Loans: 100%
+* Healthy Loans: 1%
 * High-Risk Loans: 87%
 * Recall:
-* Healthy Loans: 100%
+* Healthy Loans: 1%
 * High-Risk Loans: 89%
 
 * Model 2:
 * Balanced Accuracy: 99.6%
 * Precision:
-* Healthy Loans: 100%
+* Healthy Loans: 1%
 * High-Risk Loans: 87%
 * Recall:
-* Healthy Loans: 100%
-* High-Risk Loans: 100%
+* Healthy Loans: 1%
+* High-Risk Loans: 1%
 
 ## Summary
 Both models exhibit strong performance in predicting healthy loans. However, Model 2, which utilized resampled data, demonstrated significant improvements in accuracy and recall, achieving nearly perfect scores. Precision remains consistent at 87% for both models. Given the importance of correctly identifying high-risk loans, Model 2 is recommended due to its enhanced performance in this regard. Misclassifying a healthy loan as high-risk poses lower risks compared to failing to identify a high-risk loan accurately. Therefore, prioritizing high recall for high-risk loans is crucial for effective risk management.
