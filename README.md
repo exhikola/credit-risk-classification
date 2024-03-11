@@ -9,20 +9,20 @@
 ## Results
 *Machine Learning Model 1:
 
-* Balanced Accuracy: 94.4%
-* Precision:
+* Accuracy: 94.4%
+### Precision:
 * Healthy Loans: 1%
 * High-Risk Loans: 87%
-* Recall:
+  #### Recall:
 * Healthy Loans: 1%
 * High-Risk Loans: 89%
 
 *Machine Learnin Model 2:
-* Balanced Accuracy: 99.6%
-* Precision:
+* Accuracy: 99.6%
+### Precision:
 * Healthy Loans: 1%
 * High-Risk Loans: 87%
-* Recall:
+### Recall:
 * Healthy Loans: 1%
 * High-Risk Loans: 1%
 
